@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @badZuperman21
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on stuff
+- 💞️ I’m doing my own projects solo for now, but I may collaborate on some other stuff
 - 📫 How to reach me ...
-- 😄 Pronouns don't exist
 - ⚡ Fun fact: Im planning on making the next big game, in theory anyway, the only problem is, I don't know how to
 
 <!---
